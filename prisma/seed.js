@@ -34,7 +34,7 @@ const seed = async () => {
         create: [
           { title: "I Hate My Family!" },
           { title: "Where's My Diary?" },
-          {title: "Grumpy Kids Read Men"}
+          {title: "Grumpy Kids Read Me"}
         ],
       },
     },
